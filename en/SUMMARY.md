@@ -18,6 +18,12 @@
   * [Deploying DCM](guide/deploying.md)
   * [DCM Architecture](guide/architecture.md)
   * [Extending DCM](guide/extending.md)
+    * [Extension API Reference](plugin_ref/README.md)
+      * [class CameraDevice](plugin_ref/class_camera_device.md)
+        * [struct size](plugin_ref/struct_camera_device_1_1_size.md)
+      * [class PluginBase](plugin_ref/class_plugin_base.md)
+      * [struct CameraData](plugin_ref/struct_camera_data.md)
+      * [struct CameraInfo](plugin_ref/struct_camera_info.md)
 * [Contributing](contribute/README.md)
 
 
